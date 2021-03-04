@@ -1,1 +1,3 @@
 -Pruebas para mejorar mi programación-
+
+Este curso es mora informacion de git
