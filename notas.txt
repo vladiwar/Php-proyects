@@ -1,3 +1,5 @@
 -Pruebas para mejorar mi programación-
 
 Este curso es mora informacion de git
+
+Esta es un nota mas para el curso de git
