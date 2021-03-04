@@ -2,4 +2,8 @@
 
 Este curso es mora informacion de git
 
+<<<<<<< HEAD
 Esta es un nota mas para el curso de git
+=======
+NO me gustan las hamgurguesas
+>>>>>>> version_2
