@@ -5,7 +5,7 @@ numero2 = 20;
 
 numero3 = numero1 + numero2 ;
 
-console.log.('hola');
+
 
 
 
